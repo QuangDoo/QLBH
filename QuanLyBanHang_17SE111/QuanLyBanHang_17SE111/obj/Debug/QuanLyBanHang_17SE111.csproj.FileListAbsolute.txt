@@ -1,0 +1,128 @@
+D:\Learning\ProjectToGitHub\WFA2\LapTrinhCSDLVOIC-\Projects\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\bin\Debug\QuanLyBanHang_17SE111.exe.config
+D:\Learning\ProjectToGitHub\WFA2\LapTrinhCSDLVOIC-\Projects\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\bin\Debug\QuanLyBanHang_17SE111.exe
+D:\Learning\ProjectToGitHub\WFA2\LapTrinhCSDLVOIC-\Projects\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\bin\Debug\QuanLyBanHang_17SE111.pdb
+D:\Learning\ProjectToGitHub\WFA2\LapTrinhCSDLVOIC-\Projects\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.Frm_DangNhap.resources
+D:\Learning\ProjectToGitHub\WFA2\LapTrinhCSDLVOIC-\Projects\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.Frm_KetNoi.resources
+D:\Learning\ProjectToGitHub\WFA2\LapTrinhCSDLVOIC-\Projects\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.Frm_Main.resources
+D:\Learning\ProjectToGitHub\WFA2\LapTrinhCSDLVOIC-\Projects\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.HeThong.Frm_DoiMatKhau.resources
+D:\Learning\ProjectToGitHub\WFA2\LapTrinhCSDLVOIC-\Projects\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.HeThong.Frm_NhanVien_Main.resources
+D:\Learning\ProjectToGitHub\WFA2\LapTrinhCSDLVOIC-\Projects\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.HeThong.Frm_NhanVien_Modifies.resources
+D:\Learning\ProjectToGitHub\WFA2\LapTrinhCSDLVOIC-\Projects\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.HeThong.Frm_SaoLuuPhucHoi.resources
+D:\Learning\ProjectToGitHub\WFA2\LapTrinhCSDLVOIC-\Projects\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.Properties.Resources.resources
+D:\Learning\ProjectToGitHub\WFA2\LapTrinhCSDLVOIC-\Projects\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.QuanLyNhapHang.Frm_NhapHang_Main.resources
+D:\Learning\ProjectToGitHub\WFA2\LapTrinhCSDLVOIC-\Projects\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.QuanLyNhapHang.Frm_NhapHang_Modifies.resources
+D:\Learning\ProjectToGitHub\WFA2\LapTrinhCSDLVOIC-\Projects\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.csproj.GenerateResource.Cache
+D:\Learning\ProjectToGitHub\WFA2\LapTrinhCSDLVOIC-\Projects\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.exe
+D:\Learning\ProjectToGitHub\WFA2\LapTrinhCSDLVOIC-\Projects\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.pdb
+D:\Learning\ProjectToGitHub\WFA2\LapTrinhCSDLVOIC-\Projects\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.csprojResolveAssemblyReference.cache
+D:\Learning\ProjectToGitHub\WFA2\LapTrinhCSDLVOIC-\Projects\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\bin\Debug\MyLibrary.dll
+D:\Learning\ProjectToGitHub\WFA2\LapTrinhCSDLVOIC-\Projects\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\bin\Debug\MyLibrary.pdb
+Z:\WF2\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\bin\Debug\QuanLyBanHang_17SE111.exe.config
+Z:\WF2\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.exe
+Z:\WF2\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.pdb
+Z:\WF2\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\bin\Debug\QuanLyBanHang_17SE111.exe
+Z:\WF2\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\bin\Debug\QuanLyBanHang_17SE111.pdb
+Z:\WF2\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\bin\Debug\MyLibrary.dll
+Z:\WF2\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\bin\Debug\MyLibrary.pdb
+Z:\WF2\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.csprojResolveAssemblyReference.cache
+Z:\WF2\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.Frm_DangNhap.resources
+Z:\WF2\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.Frm_KetNoi.resources
+Z:\WF2\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.Frm_Main.resources
+Z:\WF2\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.HeThong.Frm_DoiMatKhau.resources
+Z:\WF2\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.HeThong.Frm_NhanVien_Main.resources
+Z:\WF2\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.HeThong.Frm_NhanVien_Modifies.resources
+Z:\WF2\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.HeThong.Frm_SaoLuuPhucHoi.resources
+Z:\WF2\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.Properties.Resources.resources
+Z:\WF2\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.QuanLyNhapHang.Frm_NhapHang_Main.resources
+Z:\WF2\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.QuanLyNhapHang.Frm_NhapHang_Modifies.resources
+Z:\WF2\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.csproj.GenerateResource.Cache
+Z:\WF2\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.DonViTinh.Frm_donViTinh_Main.resources
+Z:\WF2\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.DanhMuc.Frm_DonViTinh_Modifies.resources
+Z:\WF2\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.DanhMuc.Frm_LoaiSanPham_Main.resources
+Z:\WF2\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.DanhMuc.Frm_NhaCungCap_Main.resources
+Z:\WF2\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.DanhMuc.Frm_NhaCungCap_Modifies.resources
+C:\Users\huy08\OneDrive\Máy tính\Project\QLBH CSharp\WF2\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\bin\Debug\QuanLyBanHang_17SE111.exe.config
+C:\Users\huy08\OneDrive\Máy tính\Project\QLBH CSharp\WF2\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.exe
+C:\Users\huy08\OneDrive\Máy tính\Project\QLBH CSharp\WF2\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.pdb
+C:\Users\huy08\OneDrive\Máy tính\Project\QLBH CSharp\WF2\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\bin\Debug\QuanLyBanHang_17SE111.exe
+C:\Users\huy08\OneDrive\Máy tính\Project\QLBH CSharp\WF2\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\bin\Debug\QuanLyBanHang_17SE111.pdb
+C:\Users\huy08\OneDrive\Máy tính\Project\QLBH CSharp\WF2\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\bin\Debug\MyLibrary.dll
+C:\Users\huy08\OneDrive\Máy tính\Project\QLBH CSharp\WF2\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\bin\Debug\MyLibrary.pdb
+C:\Users\huy08\OneDrive\Máy tính\Project\QLBH CSharp\WF2\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.csprojResolveAssemblyReference.cache
+C:\Users\huy08\OneDrive\Máy tính\Project\QLBH CSharp\WF2\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.DonViTinh.Frm_donViTinh_Main.resources
+C:\Users\huy08\OneDrive\Máy tính\Project\QLBH CSharp\WF2\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.DanhMuc.Frm_DonViTinh_Modifies.resources
+C:\Users\huy08\OneDrive\Máy tính\Project\QLBH CSharp\WF2\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.DanhMuc.Frm_LoaiSanPham_Main.resources
+C:\Users\huy08\OneDrive\Máy tính\Project\QLBH CSharp\WF2\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.DanhMuc.Frm_NhaCungCap_Main.resources
+C:\Users\huy08\OneDrive\Máy tính\Project\QLBH CSharp\WF2\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.DanhMuc.Frm_NhaCungCap_Modifies.resources
+C:\Users\huy08\OneDrive\Máy tính\Project\QLBH CSharp\WF2\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.Frm_DangNhap.resources
+C:\Users\huy08\OneDrive\Máy tính\Project\QLBH CSharp\WF2\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.Frm_KetNoi.resources
+C:\Users\huy08\OneDrive\Máy tính\Project\QLBH CSharp\WF2\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.Frm_Main.resources
+C:\Users\huy08\OneDrive\Máy tính\Project\QLBH CSharp\WF2\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.HeThong.Frm_DoiMatKhau.resources
+C:\Users\huy08\OneDrive\Máy tính\Project\QLBH CSharp\WF2\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.HeThong.Frm_NhanVien_Main.resources
+C:\Users\huy08\OneDrive\Máy tính\Project\QLBH CSharp\WF2\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.HeThong.Frm_NhanVien_Modifies.resources
+C:\Users\huy08\OneDrive\Máy tính\Project\QLBH CSharp\WF2\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.HeThong.Frm_SaoLuuPhucHoi.resources
+C:\Users\huy08\OneDrive\Máy tính\Project\QLBH CSharp\WF2\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.Properties.Resources.resources
+C:\Users\huy08\OneDrive\Máy tính\Project\QLBH CSharp\WF2\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.QuanLyNhapHang.Frm_NhapHang_Main.resources
+C:\Users\huy08\OneDrive\Máy tính\Project\QLBH CSharp\WF2\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.QuanLyNhapHang.Frm_NhapHang_Modifies.resources
+C:\Users\huy08\OneDrive\Máy tính\Project\QLBH CSharp\WF2\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.csproj.GenerateResource.Cache
+C:\Users\huy08\OneDrive\Máy tính\Project\QLBH CSharp\WF2\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.DanhMuc.Frm_LoaisanPham_Modifies.resources
+Z:\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\bin\Debug\QuanLyBanHang_17SE111.exe.config
+Z:\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.exe
+Z:\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.pdb
+Z:\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\bin\Debug\QuanLyBanHang_17SE111.exe
+Z:\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\bin\Debug\QuanLyBanHang_17SE111.pdb
+Z:\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\bin\Debug\MyLibrary.dll
+Z:\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\bin\Debug\MyLibrary.pdb
+Z:\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.csprojResolveAssemblyReference.cache
+Z:\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.DonViTinh.Frm_donViTinh_Main.resources
+Z:\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.DanhMuc.Frm_DonViTinh_Modifies.resources
+Z:\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.DanhMuc.Frm_LoaiSanPham_Main.resources
+Z:\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.DanhMuc.Frm_LoaisanPham_Modifies.resources
+Z:\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.DanhMuc.Frm_NhaCungCap_Main.resources
+Z:\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.DanhMuc.Frm_NhaCungCap_Modifies.resources
+Z:\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.Frm_DangNhap.resources
+Z:\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.Frm_KetNoi.resources
+Z:\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.Frm_Main.resources
+Z:\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.HeThong.Frm_DoiMatKhau.resources
+Z:\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.HeThong.Frm_NhanVien_Main.resources
+Z:\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.HeThong.Frm_NhanVien_Modifies.resources
+Z:\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.HeThong.Frm_SaoLuuPhucHoi.resources
+Z:\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.Properties.Resources.resources
+Z:\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.QuanLyNhapHang.Frm_NhapHang_Main.resources
+Z:\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.QuanLyNhapHang.Frm_NhapHang_Modifies.resources
+Z:\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.csproj.GenerateResource.Cache
+Z:\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.QuanLyNhapHang.Frm_QLGiaban_main.resources
+Z:\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.QuanLyBanHang.Frm_QuanLyBanHang_Main.resources
+E:\QLBH CSharp\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\bin\Debug\QuanLyBanHang_17SE111.exe.config
+E:\QLBH CSharp\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.exe
+E:\QLBH CSharp\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.pdb
+D:\CSharp\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.csprojAssemblyReference.cache
+D:\CSharp\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.DonViTinh.Frm_donViTinh_Main.resources
+D:\CSharp\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.DanhMuc.Frm_DonViTinh_Modifies.resources
+D:\CSharp\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.DanhMuc.Frm_LoaiSanPham_Main.resources
+D:\CSharp\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.DanhMuc.Frm_LoaisanPham_Modifies.resources
+D:\CSharp\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.DanhMuc.Frm_NhaCungCap_Main.resources
+D:\CSharp\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.DanhMuc.Frm_NhaCungCap_Modifies.resources
+D:\CSharp\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.Frm_DangNhap.resources
+D:\CSharp\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.Frm_KetNoi.resources
+D:\CSharp\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.Frm_Main.resources
+D:\CSharp\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.HeThong.Frm_DoiMatKhau.resources
+D:\CSharp\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.HeThong.Frm_NhanVien_Main.resources
+D:\CSharp\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.HeThong.Frm_NhanVien_Modifies.resources
+D:\CSharp\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.HeThong.Frm_SaoLuuPhucHoi.resources
+D:\CSharp\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.Properties.Resources.resources
+D:\CSharp\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.QuanLyBanHang.Frm_QuanLyBanHang_Main.resources
+D:\CSharp\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.QuanLyNhapHang.Frm_NhapHang_Main.resources
+D:\CSharp\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.QuanLyNhapHang.Frm_NhapHang_Modifies.resources
+D:\CSharp\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.QuanLyNhapHang.Frm_QLGiaban_Main.resources
+D:\CSharp\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.csproj.GenerateResource.cache
+D:\CSharp\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.csproj.CoreCompileInputs.cache
+D:\CSharp\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.exe
+D:\CSharp\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.pdb
+D:\CSharp\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\bin\Debug\QuanLyBanHang_17SE111.exe.config
+D:\CSharp\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\bin\Debug\QuanLyBanHang_17SE111.exe
+D:\CSharp\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\bin\Debug\QuanLyBanHang_17SE111.pdb
+D:\CSharp\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\bin\Debug\MyLibrary.dll
+D:\CSharp\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\bin\Debug\MyLibrary.pdb
+D:\CSharp\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.csproj.ResolveComReference.cache
+D:\CSharp\QuanLyBanHang_17SE111\QuanLyBanHang_17SE111\obj\Debug\QuanLyBanHang_17SE111.csproj.CopyComplete
