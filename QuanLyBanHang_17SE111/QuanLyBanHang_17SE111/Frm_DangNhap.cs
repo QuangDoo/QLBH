@@ -49,7 +49,7 @@ namespace QuanLyBanHang_17SE111
                 {
                     Cls_Main.tenNhanVien = dataTable.Rows[0]["TenNhanVien"].ToString();
                     Cls_Main.maTaiKhoan = dataTable.Rows[0]["MaTaiKhoan"].ToString();
-                    Cls_Main.maNhanVien = dataTable.Rows[0]["MaNhanVien"].ToString();
+                    //Cls_Main.maNhanVien = dataTable.Rows[0]["MaNhanVien"].ToString();
                     return true;
                 }
             }

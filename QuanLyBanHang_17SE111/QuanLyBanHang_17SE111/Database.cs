@@ -15,7 +15,7 @@ namespace QuanLyBanHang_17SE111
         private SqlConnection cnn;
         private SqlCommand cmd;
         private SqlDataAdapter da;
-        string connectionString = string.Empty;
+        string connectionString = @"server= FLIXDO339\SQL2 ;database = DatabaseBanHang_17SE111; Integrated Security = true;";
         public void Dispose()
         {
             if (cnn != null)
@@ -36,8 +36,6 @@ namespace QuanLyBanHang_17SE111
         }
         public Database()
         {
-
-            connectionString = @"server= DESKTOP-68FP9AM\NGUYENHUY ;database = DatabaseBanHang; Integrated Security = true;";
             cnn = new SqlConnection(connectionString);
         }
         public DataTable GetDataTable(ref string err, string sql, CommandType ct, params SqlParameter[] parameters)

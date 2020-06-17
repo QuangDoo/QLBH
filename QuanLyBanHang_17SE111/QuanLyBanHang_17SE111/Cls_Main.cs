@@ -16,7 +16,7 @@ namespace QuanLyBanHang_17SE111
         public static string maTaiKhoan = string.Empty;
         public static string maNhanVien = string.Empty;
 
-        public static string DatabaseName = "DatabaseBanHang";
+        public static string DatabaseName = "DatabaseBanHang_17SE111";
 
         //Method
         //Phương thức Xuất Excel
