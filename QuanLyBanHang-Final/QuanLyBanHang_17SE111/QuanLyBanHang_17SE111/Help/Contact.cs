@@ -16,5 +16,7 @@ namespace QuanLyBanHang_17SE111.Help
         {
             InitializeComponent();
         }
+
+        
     }
 }

@@ -16,5 +16,12 @@ namespace QuanLyBanHang_17SE111.QuanLyBanHang
         {
             InitializeComponent();
         }
+
+        private void Frm_BanHang_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        
     }
 }

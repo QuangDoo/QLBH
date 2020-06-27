@@ -51,7 +51,7 @@
             // 
             // lblTitle
             // 
-            this.lblTitle.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.lblTitle.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
             this.lblTitle.Dock = System.Windows.Forms.DockStyle.Top;
             this.lblTitle.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblTitle.ForeColor = System.Drawing.Color.DarkBlue;
@@ -59,7 +59,7 @@
             this.lblTitle.Name = "lblTitle";
             this.lblTitle.Size = new System.Drawing.Size(633, 53);
             this.lblTitle.TabIndex = 0;
-            this.lblTitle.Text = "CHƯƠNG TRÌNH QUẢN LÝ MUA BÁN ĐIỆN THOẠI DI ĐỘNG";
+            this.lblTitle.Text = "CHƯƠNG TRÌNH QUẢN LÝ MUA BÁN PC | LAPTOP ";
             this.lblTitle.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label1
@@ -69,9 +69,8 @@
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(539, 64);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(82, 20);
+            this.label1.Size = new System.Drawing.Size(0, 20);
             this.label1.TabIndex = 1;
-            this.label1.Text = "Ver 1.0.0";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label2
@@ -90,9 +89,9 @@
             this.lblTenSV1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblTenSV1.Location = new System.Drawing.Point(64, 214);
             this.lblTenSV1.Name = "lblTenSV1";
-            this.lblTenSV1.Size = new System.Drawing.Size(136, 20);
+            this.lblTenSV1.Size = new System.Drawing.Size(115, 20);
             this.lblTenSV1.TabIndex = 3;
-            this.lblTenSV1.Text = "Nguyễn Ngọc Huy";
+            this.lblTenSV1.Text = "Đỗ Văn Quang";
             this.lblTenSV1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // lblTenSV2
@@ -101,9 +100,9 @@
             this.lblTenSV2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblTenSV2.Location = new System.Drawing.Point(64, 242);
             this.lblTenSV2.Name = "lblTenSV2";
-            this.lblTenSV2.Size = new System.Drawing.Size(120, 20);
+            this.lblTenSV2.Size = new System.Drawing.Size(141, 20);
             this.lblTenSV2.TabIndex = 4;
-            this.lblTenSV2.Text = "Nguyễn Duy Tài";
+            this.lblTenSV2.Text = "Nguyễn Danh Lam";
             this.lblTenSV2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // lblTenSV3
@@ -112,9 +111,9 @@
             this.lblTenSV3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblTenSV3.Location = new System.Drawing.Point(64, 273);
             this.lblTenSV3.Name = "lblTenSV3";
-            this.lblTenSV3.Size = new System.Drawing.Size(160, 20);
+            this.lblTenSV3.Size = new System.Drawing.Size(129, 20);
             this.lblTenSV3.TabIndex = 5;
-            this.lblTenSV3.Text = "Nguyễn Trọng Hoàng\r\n";
+            this.lblTenSV3.Text = "Lê Khánh Hoàng";
             this.lblTenSV3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label6
@@ -131,12 +130,12 @@
             // 
             this.linkLabel1.AutoSize = true;
             this.linkLabel1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.linkLabel1.Location = new System.Drawing.Point(361, 216);
+            this.linkLabel1.Location = new System.Drawing.Point(385, 214);
             this.linkLabel1.Name = "linkLabel1";
-            this.linkLabel1.Size = new System.Drawing.Size(216, 20);
+            this.linkLabel1.Size = new System.Drawing.Size(190, 20);
             this.linkLabel1.TabIndex = 10;
             this.linkLabel1.TabStop = true;
-            this.linkLabel1.Text = "huy0895hth2013@gmail.com";
+            this.linkLabel1.Text = "do.quang039@gmail.com";
             // 
             // lblMaSV1
             // 
@@ -146,7 +145,7 @@
             this.lblMaSV1.Name = "lblMaSV1";
             this.lblMaSV1.Size = new System.Drawing.Size(90, 20);
             this.lblMaSV1.TabIndex = 11;
-            this.lblMaSV1.Text = "117000426";
+            this.lblMaSV1.Text = "117000744";
             this.lblMaSV1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // lblMaSV2
@@ -157,7 +156,7 @@
             this.lblMaSV2.Name = "lblMaSV2";
             this.lblMaSV2.Size = new System.Drawing.Size(90, 20);
             this.lblMaSV2.TabIndex = 12;
-            this.lblMaSV2.Text = "117000210";
+            this.lblMaSV2.Text = "117000762";
             this.lblMaSV2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // lblMaSV3
@@ -168,7 +167,7 @@
             this.lblMaSV3.Name = "lblMaSV3";
             this.lblMaSV3.Size = new System.Drawing.Size(90, 20);
             this.lblMaSV3.TabIndex = 13;
-            this.lblMaSV3.Text = "117000230";
+            this.lblMaSV3.Text = "117000177";
             this.lblMaSV3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // linkLabel2
@@ -177,10 +176,10 @@
             this.linkLabel2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.linkLabel2.Location = new System.Drawing.Point(385, 244);
             this.linkLabel2.Name = "linkLabel2";
-            this.linkLabel2.Size = new System.Drawing.Size(168, 20);
+            this.linkLabel2.Size = new System.Drawing.Size(193, 20);
             this.linkLabel2.TabIndex = 14;
             this.linkLabel2.TabStop = true;
-            this.linkLabel2.Text = "eyachimiha185@gmail";
+            this.linkLabel2.Text = "danhlam1002@gmail.com";
             // 
             // linkLabel3
             // 
@@ -188,10 +187,10 @@
             this.linkLabel3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.linkLabel3.Location = new System.Drawing.Point(382, 275);
             this.linkLabel3.Name = "linkLabel3";
-            this.linkLabel3.Size = new System.Drawing.Size(175, 20);
+            this.linkLabel3.Size = new System.Drawing.Size(212, 20);
             this.linkLabel3.TabIndex = 15;
             this.linkLabel3.TabStop = true;
-            this.linkLabel3.Text = "nhikiki2207@gmail.com";
+            this.linkLabel3.Text = "khanhhoang152@gmail.com";
             // 
             // label11
             // 
@@ -207,7 +206,7 @@
             // 
             this.label12.AutoSize = true;
             this.label12.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label12.Location = new System.Drawing.Point(209, 89);
+            this.label12.Location = new System.Drawing.Point(209, 93);
             this.label12.Name = "label12";
             this.label12.Size = new System.Drawing.Size(173, 24);
             this.label12.TabIndex = 17;
@@ -255,14 +254,14 @@
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(27, 20);
             this.label3.TabIndex = 21;
-            this.label3.Text = "07";
+            this.label3.Text = "08";
             this.label3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // Frm_About_Us
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
             this.ClientSize = new System.Drawing.Size(633, 340);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.lblMail);
@@ -284,7 +283,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.lblTitle);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Frm_About_Us";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "About";
