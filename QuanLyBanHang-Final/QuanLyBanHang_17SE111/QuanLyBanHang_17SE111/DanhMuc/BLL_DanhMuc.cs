@@ -10,7 +10,7 @@ namespace QuanLyBanHang_17SE111.DanhMuc
 {
    public class BLL_DanhMuc
     {
-       Database data;
+        readonly Database data;
        public BLL_DanhMuc()
        {
            data = new Database();
