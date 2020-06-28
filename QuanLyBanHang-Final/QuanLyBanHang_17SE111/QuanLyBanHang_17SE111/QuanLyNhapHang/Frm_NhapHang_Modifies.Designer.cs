@@ -70,7 +70,6 @@
             this.colNgayNhap = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.colMaNhanVien = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.colMaSanPham = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.colTenLoaiSanPham = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.colTenSanPham = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.colSoLuongNhap = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.colSoLuongNhapTon = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -256,7 +255,6 @@
             this.txtTenSanPham.Name = "txtTenSanPham";
             this.txtTenSanPham.Size = new System.Drawing.Size(280, 20);
             this.txtTenSanPham.TabIndex = 10;
-            this.txtTenSanPham.Leave += new System.EventHandler(this.txtTenSanPham_Leave);
             // 
             // txtMaVach
             // 
@@ -387,7 +385,6 @@
             this.colNgayNhap,
             this.colMaNhanVien,
             this.colMaSanPham,
-            this.colTenLoaiSanPham,
             this.colTenSanPham,
             this.colSoLuongNhap,
             this.colSoLuongNhapTon,
@@ -456,13 +453,6 @@
             this.colMaSanPham.Name = "colMaSanPham";
             this.colMaSanPham.ReadOnly = true;
             this.colMaSanPham.Visible = false;
-            // 
-            // colTenLoaiSanPham
-            // 
-            this.colTenLoaiSanPham.DataPropertyName = "TenLoaiSanPham";
-            this.colTenLoaiSanPham.HeaderText = "Loại sản phẩm";
-            this.colTenLoaiSanPham.Name = "colTenLoaiSanPham";
-            this.colTenLoaiSanPham.ReadOnly = true;
             // 
             // colTenSanPham
             // 
@@ -618,7 +608,6 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn colNgayNhap;
         private System.Windows.Forms.DataGridViewTextBoxColumn colMaNhanVien;
         private System.Windows.Forms.DataGridViewTextBoxColumn colMaSanPham;
-        private System.Windows.Forms.DataGridViewTextBoxColumn colTenLoaiSanPham;
         private System.Windows.Forms.DataGridViewTextBoxColumn colTenSanPham;
         private System.Windows.Forms.DataGridViewTextBoxColumn colSoLuongNhap;
         private System.Windows.Forms.DataGridViewTextBoxColumn colSoLuongNhapTon;

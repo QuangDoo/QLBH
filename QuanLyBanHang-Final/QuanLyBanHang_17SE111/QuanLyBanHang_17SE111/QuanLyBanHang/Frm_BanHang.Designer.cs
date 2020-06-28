@@ -47,6 +47,8 @@
             this.txtMaHDBan = new System.Windows.Forms.TextBox();
             this.label7 = new System.Windows.Forms.Label();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.txtTongTien = new System.Windows.Forms.TextBox();
+            this.label6 = new System.Windows.Forms.Label();
             this.btnXoa = new System.Windows.Forms.Button();
             this.dgvDanhSachBan = new System.Windows.Forms.DataGridView();
             this.colMaSanPham = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -69,8 +71,6 @@
             this.txtTenHang = new System.Windows.Forms.TextBox();
             this.statusStrip1 = new System.Windows.Forms.StatusStrip();
             this.lblMaHoaDonHienTai = new System.Windows.Forms.ToolStripStatusLabel();
-            this.txtTongTien = new System.Windows.Forms.TextBox();
-            this.label6 = new System.Windows.Forms.Label();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvDanhSachBan)).BeginInit();
@@ -254,6 +254,23 @@
             this.groupBox2.TabIndex = 64;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Thông tin các mặt hàng";
+            // 
+            // txtTongTien
+            // 
+            this.txtTongTien.Location = new System.Drawing.Point(575, 88);
+            this.txtTongTien.Name = "txtTongTien";
+            this.txtTongTien.Size = new System.Drawing.Size(147, 24);
+            this.txtTongTien.TabIndex = 89;
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.ForeColor = System.Drawing.Color.White;
+            this.label6.Location = new System.Drawing.Point(493, 94);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(69, 18);
+            this.label6.TabIndex = 88;
+            this.label6.Text = "Tổng tiền";
             // 
             // btnXoa
             // 
@@ -483,23 +500,6 @@
             this.lblMaHoaDonHienTai.Name = "lblMaHoaDonHienTai";
             this.lblMaHoaDonHienTai.Size = new System.Drawing.Size(115, 17);
             this.lblMaHoaDonHienTai.Text = "Mã HD: HD00000001";
-            // 
-            // txtTongTien
-            // 
-            this.txtTongTien.Location = new System.Drawing.Point(575, 88);
-            this.txtTongTien.Name = "txtTongTien";
-            this.txtTongTien.Size = new System.Drawing.Size(147, 24);
-            this.txtTongTien.TabIndex = 89;
-            // 
-            // label6
-            // 
-            this.label6.AutoSize = true;
-            this.label6.ForeColor = System.Drawing.Color.White;
-            this.label6.Location = new System.Drawing.Point(493, 94);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(69, 18);
-            this.label6.TabIndex = 88;
-            this.label6.Text = "Tổng tiền";
             // 
             // Frm_BanHang
             // 

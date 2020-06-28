@@ -21,7 +21,7 @@ namespace QuanLyBanHang_17SE111.QuanLyBanHang
         readonly BLL_BanHang bd;
         readonly string err = string.Empty;
         readonly DataTable dtBanHang;
-        public DTO_NhaCungCap dtBanHang;
+        //public DTO_NhaCungCap dtBanHang;
         private void Frm_BanHang_Load(object sender, EventArgs e)
         {
             btnTinh.Enabled = true;
@@ -47,19 +47,21 @@ namespace QuanLyBanHang_17SE111.QuanLyBanHang
                 btnXoa.Enabled = true;
                 btnInHoaDon.Enabled = true;
             }
-            LoadDataGridView();
+            //LoadDataGridView();
         }
 
-        private void LoadDataGridView()
-        {
-            dtBanHang = new DataTable();
-            dtBanHang = bd.LayDanhSachNhaCungCap(ref err);
-            dgvDanhSachBan.DataSource = dtBanHang;
-        }
+        //private void LoadDataGridView()
+        //{
+        //    dtBanHang = new DataTable();
+        //    dtBanHang = bd.LayDanhSachNhaCungCap(ref err);
+        //    dgvDanhSachBan.DataSource = dtBanHang;
+        //}
 
         private void LoadInfoHoaDon()
         {
             throw new NotImplementedException();
         }
+
+       
     }
 }

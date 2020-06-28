@@ -40,12 +40,12 @@ namespace QuanLyBanHang_17SE111
             }
         }
 
-        private void mnuDangXuat_Click(object sender, EventArgs e)
-        {
-            Frm_DangNhap frm_DangNhap = new Frm_DangNhap();
-            frm_DangNhap.ShowDialog();
-            lblTenNhanVien.Text = Cls_Main.tenNhanVien;
-        }
+        //private void mnuDangXuat_Click(object sender, EventArgs e)
+        //{
+        //    Frm_DangNhap frm_DangNhap = new Frm_DangNhap();
+        //    frm_DangNhap.ShowDialog();
+        //    lblTenNhanVien.Text = Cls_Main.tenNhanVien;
+        //}
 
         private void mnuSaoLuu_Click(object sender, EventArgs e)
         {
@@ -136,5 +136,11 @@ namespace QuanLyBanHang_17SE111
             kh.ShowDialog();
         }
 
+        private void đăngXuấtToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Frm_DangNhap frm_DangNhap = new Frm_DangNhap();
+            frm_DangNhap.ShowDialog();
+            lblTenNhanVien.Text = Cls_Main.tenNhanVien;
+        }
     }
 }

@@ -64,8 +64,8 @@ namespace QuanLyBanHang_17SE111.QuanLyNhapHang
                 new SqlParameter("@MoTa", nhapHang.MoTa),
                 new SqlParameter("@SoLuongNhap", nhapHang.SoLuongNhap),
                 new SqlParameter("@DonGiaNhap", nhapHang.DonGiaNhap),
-                new SqlParameter("@MaLoaiSanPham", nhapHang.MaLoaiSanPham),
-                new SqlParameter("@MaDonViTinh", nhapHang.MaDonViTinh),
+                //new SqlParameter("@MaLoaiSanPham", nhapHang.MaLoaiSanPham),
+                //new SqlParameter("@MaDonViTinh", nhapHang.MaDonViTinh),
                 new SqlParameter("@MaNhaCungCap", nhapHang.MaNhaCungCap),
                    new SqlParameter("@DonGiaBan", nhapHang.GiaBanHienHanh));
         }
@@ -80,8 +80,8 @@ namespace QuanLyBanHang_17SE111.QuanLyNhapHang
                 new SqlParameter("@MoTa", nhapHang.MoTa),
                 new SqlParameter("@SoLuongNhap", nhapHang.SoLuongNhap),
                 new SqlParameter("@DonGiaNhap", nhapHang.DonGiaNhap),
-                new SqlParameter("@MaLoaiSanPham", nhapHang.MaLoaiSanPham),
-                new SqlParameter("@MaDonViTinh", nhapHang.MaDonViTinh),
+                //new SqlParameter("@MaLoaiSanPham", nhapHang.MaLoaiSanPham),
+                //new SqlParameter("@MaDonViTinh", nhapHang.MaDonViTinh),
                 new SqlParameter("@MaNhaCungCap", nhapHang.MaNhaCungCap),
                  new SqlParameter("@GiaBanHienHanh", nhapHang.GiaBanHienHanh));
         }

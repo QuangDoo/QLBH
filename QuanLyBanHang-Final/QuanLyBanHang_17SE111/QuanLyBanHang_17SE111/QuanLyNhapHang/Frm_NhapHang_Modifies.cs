@@ -94,31 +94,10 @@ namespace QuanLyBanHang_17SE111.QuanLyNhapHang
             if (StatusTaoPhieu)
                 TaoMaPhieuNhap(dtpNgayNhap.Value);
         }
-        DataTable dtSanPham;
+         
        
 
-        private void txtTenSanPham_Leave(object sender, EventArgs e)
-        {
-            if (statusUpdate == false)
-            {
-                if (!string.IsNullOrEmpty(txtTenSanPham.Text.Trim()))
-                {
-                    foreach (DataRow item in dtSanPham.Rows)
-                    {
-                        if (item["TenSanPham"].ToString().Equals(txtTenSanPham.Text.Trim()))
-                        {
-                            txtMaSanPham.Text = item["MaSanPham"].ToString();
-                            cboNhaCungCap.SelectedValue = item["MaNhaCungCap"].ToString();
-                            txtDonGiaNhap.Text = item["DonGiaBinhQuan"].ToString();
-                            txtDonGiaBan.Text = item["GiaBanHienHanh"].ToString();
-                            return;
-                        }
-                    }
-                }
-                txtDonGiaBan.Enabled = false;
-                txtMaSanPham.Text = "0";
-            }
-        }
+        
 
         private void btnThem_Click(object sender, EventArgs e)
         {
@@ -240,8 +219,8 @@ namespace QuanLyBanHang_17SE111.QuanLyNhapHang
             nhapHang.MaSanPham = dgvChiTietNhapHang.CurrentRow.Cells["colMaSanPham"].Value.ToString();
             nhapHang.TenSanPham = dgvChiTietNhapHang.CurrentRow.Cells["colTenSanPham"].Value.ToString();
             nhapHang.MoTa = "";
-            nhapHang.MaLoaiSanPham = dgvChiTietNhapHang.CurrentRow.Cells["colMaLoaiSanPham"].Value.ToString();
-            nhapHang.MaDonViTinh = dgvChiTietNhapHang.CurrentRow.Cells["colMaDonViTinh"].Value.ToString();
+            //nhapHang.MaLoaiSanPham = dgvChiTietNhapHang.CurrentRow.Cells["colMaLoaiSanPham"].Value.ToString();
+            //nhapHang.MaDonViTinh = dgvChiTietNhapHang.CurrentRow.Cells["colMaDonViTinh"].Value.ToString();
             nhapHang.MaNhaCungCap = dgvChiTietNhapHang.CurrentRow.Cells["colMaNhaCungCap"].Value.ToString();
             nhapHang.SoLuongNhap = Convert.ToInt64(dgvChiTietNhapHang.CurrentRow.Cells["colSoLuongNhap"].Value.ToString());
             nhapHang.DonGiaNhap = Convert.ToInt64(dgvChiTietNhapHang.CurrentRow.Cells["colDonGiaNhap"].Value.ToString());
@@ -256,8 +235,8 @@ namespace QuanLyBanHang_17SE111.QuanLyNhapHang
             nhapHang.MaSanPham = dgvChiTietNhapHang.Rows[index].Cells["colMaSanPham"].Value.ToString();
             nhapHang.TenSanPham = dgvChiTietNhapHang.Rows[index].Cells["colTenSanPham"].Value.ToString();
             nhapHang.MoTa = "";
-            nhapHang.MaLoaiSanPham = dgvChiTietNhapHang.Rows[index].Cells["colMaLoaiSanPham"].Value.ToString();
-            nhapHang.MaDonViTinh = dgvChiTietNhapHang.Rows[index].Cells["colMaDonViTinh"].Value.ToString();
+            //nhapHang.MaLoaiSanPham = dgvChiTietNhapHang.Rows[index].Cells["colMaLoaiSanPham"].Value.ToString();
+            //nhapHang.MaDonViTinh = dgvChiTietNhapHang.Rows[index].Cells["colMaDonViTinh"].Value.ToString();
             nhapHang.MaNhaCungCap = dgvChiTietNhapHang.Rows[index].Cells["colMaNhaCungCap"].Value.ToString();
             nhapHang.SoLuongNhap = Convert.ToInt64(dgvChiTietNhapHang.Rows[index].Cells["colSoLuongNhap"].Value.ToString());
             nhapHang.DonGiaNhap = Convert.ToInt64(dgvChiTietNhapHang.Rows[index].Cells["colDonGiaNhap"].Value.ToString());
